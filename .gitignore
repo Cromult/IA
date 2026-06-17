@@ -1,0 +1,23 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# CodeGraph folder
+codegraph/
+codegraph.*
+
+# Logs
+logs/
+*.log
+
+# Editor temporary files
+*.swp
+*~
+.DS_Store
+
+.codegraph/
+.codegraph-*/

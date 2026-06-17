@@ -1,0 +1,11 @@
+fastapi[standard-no-fastapi-cloud-cli]
+uvicorn[standard]
+
+ultralytics
+transformers
+
+opencv-python-headless
+pillow
+numpy
+requests
+scikit-learn
